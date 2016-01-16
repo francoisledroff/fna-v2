@@ -8,7 +8,7 @@ Fna is many things;
 
 * drafted samples projects, proof of concepts and/or blue prints:
   * [Automated testing and quality control for "Enterprise" Flex applications](http://www.jroller.com/francoisledroff/entry/automated_testing_and_quality_control) at the Parisian Flex User Group "Les Tontons Flexeurs" in August 2009
-  * [Parisian JUG presentation in July 2009](href="http://www.jroller.com/page/francoisledroff/?anchor=compte_rendu_de_la_soir%C3%A9e)
+  * [Parisian JUG presentation in July 2009](http://www.jroller.com/page/francoisledroff/?anchor=compte_rendu_de_la_soir%C3%A9e)
   * [Conférence RIA Flex au Riveria JUG le 19 Juin](http://www.jroller.com/francoisledroff/entry/conf%C3%A9rence_ria_flex_au_riveria)
   * [Flex for Java developers (at the BreizhJUG)](http://www.jroller.com/francoisledroff/entry/java_for_flex_architects)
 
